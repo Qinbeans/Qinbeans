@@ -1,6 +1,6 @@
 # Qinbeans(Ryan Fong)
 
-<link rel="stylesheet" href="https://github.com/Qinbeans/Qinbeans/blob/main/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 |  |  |
 |--|--|
